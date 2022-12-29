@@ -6,10 +6,13 @@ Full-stack Dev.
 
 I'm self taught Full-stack developer Started with CS50, later i got into the basics of HTML/CSS and then I learned React and React Native Framework and continued with Back-end with NodeJS and ExpressJS now I'm an expert web and mobile developer
 
-*   🌍  I'm based in Karbala
-*   🖥️  See my portfolio at [AHMED FAREEQ](http://playful-baklava-029772.netlify.app)
-*   ✉️  You can contact me at [ahmed.fareeq.0@gmail.com](mailto:ahmed.fareeq.0@gmail.com)
-*   🤝  I'm open to collaborating on Xlizer1### Skills 
+* 🌍  I'm based in Karbala
+* 🖥️  See my portfolio at [AHMED FAREEQ](http://playful-baklava-029772.netlify.app)
+* ✉️  You can contact me at [ahmed.fareeq.0@gmail.com](mailto:ahmed.fareeq.0@gmail.com)
+* 🤝  I'm open to collaborating on Xlizer1
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -26,14 +29,7 @@ I'm self taught Full-stack developer Started with CS50, later i got into the bas
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/ice_222#6315" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/ahmed-fareeq-0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/_pos01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/ice_222#6315" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ahmed-fareeq-0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_pos01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
