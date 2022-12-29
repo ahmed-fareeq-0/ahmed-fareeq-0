@@ -9,7 +9,7 @@ I'm self taught Full-stack developer Started with CS50, later i got into the bas
 * 🌍  I'm based in Karbala
 * 🖥️  See my portfolio at [AHMED FAREEQ](http://playful-baklava-029772.netlify.app)
 * ✉️  You can contact me at [ahmed.fareeq.0@gmail.com](mailto:ahmed.fareeq.0@gmail.com)
-* 🤝  I'm open to collaborating on Xlizer1
+* 🤝  I'm open to collaborating with Xlizer1
 
 ### Skills
 
